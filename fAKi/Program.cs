@@ -139,7 +139,7 @@ namespace fAKi
 
         static void Main(string[] args)
         {
-            
+            //
             Console.WriteLine(faki(5));
             Console.WriteLine(rekurzivFaki(5));
             Console.WriteLine(hatvany(-2, -2));
