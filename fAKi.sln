@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fAKi", "fAKi\fAKi.csproj", "{A81CF93B-A064-4498-AB42-A23A441AEBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81CF93B-A064-4498-AB42-A23A441AEBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81CF93B-A064-4498-AB42-A23A441AEBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81CF93B-A064-4498-AB42-A23A441AEBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81CF93B-A064-4498-AB42-A23A441AEBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1F9ECE-5582-4E22-BB53-83F3281D9D39}
+	EndGlobalSection
+EndGlobal
